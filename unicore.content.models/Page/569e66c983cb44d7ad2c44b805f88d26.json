@@ -10,13 +10,11 @@
   "_version": {
     "package_version": "1.4.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [
-    "561b44a5e90e4fbf94a56f8623282a5c"
-  ], 
+  "linked_pages": [], 
   "id": null, 
   "content": "This FAQ responds to the most frequently asked questions relating to Ebola. Information in this FAQ is from WHO and UNICEF.\r\n\r\nNext article:", 
   "source": null, 
